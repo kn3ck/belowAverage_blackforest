@@ -12,7 +12,7 @@ Eine Plattform, die die Verschmutzung der Flüsse in den Städten analysiert. Mi
 * OSM-Map Data
 2. Trash Detection
 * Tensorflow on Azure
-* 
+* homebrowe Yolo
 3. Presentation 
 * Prezi
 
