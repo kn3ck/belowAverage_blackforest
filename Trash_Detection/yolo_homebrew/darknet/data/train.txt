@@ -1,0 +1,8 @@
+data/obj/1.png
+data/obj/2.png
+data/obj/3.png
+data/obj/6.png
+data/obj/7.png
+data/obj/8.png
+data/obj/10.png
+data/obj/11.png

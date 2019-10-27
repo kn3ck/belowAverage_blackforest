@@ -1,0 +1,2 @@
+data/obj/4.png
+data/obj/9.png
